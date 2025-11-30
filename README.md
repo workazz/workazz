@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="140" src="https://media1.tenor.com/m/LJdpj6S0QK4AAAAC/anim%C3%A9.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/LJdpj6S0QK4AAAAC/anim%C3%A9.gif"  />
 
 ###
 

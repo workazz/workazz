@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nabil Ridho Pratana and I'm a Fullstack Junior from Indonesia</h2>
+<h2 align="center">Hi 👋! My name is Nabil Ridho Pratama and I'm a Fullstack Junior from Indonesia</h2>
 
 ###
 
